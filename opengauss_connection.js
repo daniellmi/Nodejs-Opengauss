@@ -39,15 +39,10 @@ console.log(error);
 }
 
 app.post('/data', (req, res) => {
-	console.log(req.body);
+console.log(req.body);
 //client.query(`insert into cows values (1, 36,2)`, result => {
     //console.log(result) 
   //  return client.disconnect()
 //})
 })
-
-
-
 app.listen(PORT, () => {console.log('app is running'); })
-
-
