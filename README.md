@@ -2,6 +2,8 @@
 
 This project demonstrates how to connect a Node.js application to an [openGauss](https://opengauss.org/) database using the [`node-opengauss`](https://github.com/shiqimei/node-opengauss) client library.
 
+Library owner: GitHub - shiqimei/node-opengauss: A simple OpenGauss client for Node.js based on node-postgres. https://lnkd.in/dKRNufSf
+
 ## 📚 About
 
 [openGauss](https://opengauss.org/) is an open-source relational database developed by Huawei, based on PostgreSQL. It is designed for enterprise-grade reliability and performance.
